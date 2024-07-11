@@ -1,0 +1,40 @@
+.id{
+    background-color: chartreuse;
+    height: 500px;
+    width: 610px;
+    transform: translate(500px,100px);
+}
+.k{
+    background-color: azure;
+    height: 400px;
+    width: 550px;
+    border-radius: 20px;
+    transform:translate(30px,50px)
+
+}
+h1{
+    padding:30px;
+}
+.l{
+    transform:translate(30px,-40px);
+}
+.o{
+    transform:translate(30px,-40px);
+}
+.name{
+    transform:translate(220px,-20px);
+}
+.h{
+    font-size:20px;
+    transform:translate(0px,-30px)
+    
+}
+.b{
+    transform:translate(30px,-20px)
+}
+.e{
+    transform:translate(200px,-54px)
+}
+.s{
+    transform:translate(360px,-90px)
+}
